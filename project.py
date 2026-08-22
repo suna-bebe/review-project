@@ -1,6 +1,6 @@
 # this is a easy code.
 num_1 = float(input(" enter first number: "))
-
+num_2 = float(input(" enter first number: "))
 
 operator = input(" select your oprerator ( *, /, +, _): ")
 
